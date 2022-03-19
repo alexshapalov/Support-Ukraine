@@ -1,6 +1,6 @@
 # Support Ukraine 🇺🇦
 
-## Add this text in header of your site:
+## Add this text to the header of your site.:
 
 ### Text and link:
 
