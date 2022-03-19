@@ -1,8 +1,8 @@
 # Support Ukraine 🇺🇦
 
-## Add this text in header of yor site:
+## Add this text in header of your site:
 
-### Test and link
+### Text and link
 
 Support Ukraine 🇺🇦 during the Russian invasion. Stop World War III.
 
@@ -13,9 +13,14 @@ Support Ukraine 🇺🇦 during the Russian invasion. Stop World War III.
 
 HTML 
 
+...
 
 ##
 
-Botstap 
+Bootstrap 
+
+...
+
+
 
 
